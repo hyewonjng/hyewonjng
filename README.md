@@ -1,4 +1,4 @@
-### Hi, I'm Hyewon 👋‍
+### Hi, I'm Hyewon, a Data Scientist 👋‍
 
 <!--
 **hyewonjng/hyewonjng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
