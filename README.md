@@ -12,7 +12,7 @@ I recently completed Metis Data Science Bootcamp
 that helped me brush my skills in statistical analysis, 
 data visualization, machine learning algorithms, 
 and data engineering and accomplish the following
-data science projects "Under the **pinned** area" below.
+data science projects "Under the **pinned** area" below 👇
 
 To learn about me, please feel free to email me at heeyewonj@gmail.com
 and take a look my resume! 
