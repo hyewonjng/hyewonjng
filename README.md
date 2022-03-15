@@ -13,7 +13,7 @@ that helped me brush my skills in statistical analysis,
 data visualization, machine learning algorithms, 
 and data engineering and accomplish the following
 data science projects "Under the **pinned** area" below 👇
-(and there are more projects coming up in my repositories if interested)!
+
 
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
 and take a look my resume! 
