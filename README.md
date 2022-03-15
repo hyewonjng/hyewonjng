@@ -19,7 +19,9 @@ data science projects below 👇
 - Food Recipes Categorization 
 - Vaccination Willingness Classification
 - NYC Apartment Rental Price Prediction
+- 
 6️⃣Detecting Suicidal Adolescents using Data Science
+
 7️⃣[Mask Force Placement at NYC transportation](https://github.com/hyewonjng/Metis-MaskForcePlacement) 
 
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
