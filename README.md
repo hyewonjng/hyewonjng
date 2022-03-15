@@ -17,9 +17,9 @@ data science projects below 👇
 - Keep up the Good Vibes: Music Recommender System using Spotify Audio Features
 - More than 5-star Ratings: E-commerce Customer Review Analysis
 - Food Recipes Categorization 
-- Vaccination Willingness Classification
-- NYC Apartment Rental Price Prediction
-- Detecting Suicidal Adolescents using Data Science
+- [Vaccination Willingness Classification](https://github.com/hyewonjng/Metis-Vaccination)
+- [NYC Apartment Rental Price Prediction](https://github.com/hyewonjng/Metis-NYCRentalPrediction)
+- [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
 - [Mask Force Placement at NYC Transportation during COVID-19](https://github.com/hyewonjng/Metis-MaskForcePlacement) 
 
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
