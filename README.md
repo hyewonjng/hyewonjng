@@ -12,7 +12,7 @@ I recently completed [Metis Data Science Bootcamp](https://www.thisismetis.com/)
 that helped me brush my skills in statistical analysis, 
 data visualization, machine learning algorithms, 
 and data engineering and accomplish the following
-data science projects "under the **pinned** area" below 👇
+data science projects below 👇
 
 - Keep up the Good Vibes: Music Recommender System using Spotify Audio Features
 - More than 5-star Ratings: E-commerce Customer Review Analysis
@@ -20,7 +20,7 @@ data science projects "under the **pinned** area" below 👇
 - Vaccination Willingness Classification
 - NYC Apartment Rental Price Prediction
 - Detecting Suicidal Adolescents using Data Science
-- Mask Force Placement at NYC transportation 
+- [Mask Force Placement at NYC transportation](https://github.com/hyewonjng/Metis-MaskForcePlacement) 
 
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
 and take a look at my [LinkedIn](https://www.linkedin.com/in/hyewonjng/)! 
