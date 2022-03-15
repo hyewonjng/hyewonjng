@@ -2,7 +2,7 @@
 
 ### About me 
 I am a data scientist with 4+ years of research experience 
-and rigorous training in statistical analysis in graduate school.
+and rigorous training in statistical analysis from graduate school.
 With my research work and studies in statistics and data analysis, 
 it naturally led me interested in and became passionated 
 about pursuing data science. 
