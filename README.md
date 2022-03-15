@@ -14,7 +14,7 @@ data visualization, machine learning algorithms,
 and data engineering and accomplish the following
 data science projects below 👇
 
-- Keep up the Good Vibes: Music Recommender System using Spotify Audio Features
+- [Keep up the Good Vibes: Music Recommender System using Spotify Audio Features](https://github.com/hyewonjng/Metis-MusicTrackRecommender)
 - More than 5-star Ratings: E-commerce Customer Review Analysis
 - Food Recipes Categorization 
 - [Vaccination Willingness Classification](https://github.com/hyewonjng/Metis-Vaccination)
