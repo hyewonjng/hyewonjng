@@ -16,5 +16,5 @@ data science projects "Under the **pinned** area" below 👇
 
 
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
-and take a look my resume! 
+and take a look at my resume! 
 
