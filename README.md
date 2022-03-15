@@ -8,7 +8,7 @@ it naturally led me interested in and became passionated
 about pursuing data science. 
 
 To delve into data science and machine learning, 
-I recently completed Metis Data Science Bootcamp 
+I recently completed [Metis Data Science Bootcamp](https://www.thisismetis.com/) 
 that helped me brush my skills in statistical analysis, 
 data visualization, machine learning algorithms, 
 and data engineering and accomplish the following
