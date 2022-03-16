@@ -22,8 +22,6 @@ data science projects below 👇
 - [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
 - [Mask Force Placement at NYC Transportation during COVID-19](https://github.com/hyewonjng/Metis-MaskForcePlacement) 
 
-Please feel free to contact with any questions!
+To learn more about me, here are my [LinkedIn](https://www.linkedin.com/in/hyewonjng/) and resume both in English and [Korean](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf)
 
-Email: heeyewonj@gmail.com
-LinkedIn: [in/hyewonjng](https://www.linkedin.com/in/hyewonjng/)! 
-Resume: [Resume_KR.pdf](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf)
+Please feel free to contact me with any questions about my work and work opportunites. Looking forward to it!
