@@ -25,3 +25,4 @@ data science projects below 👇
 To learn more about me, please feel free to email me at heeyewonj@gmail.com
 and take a look at my [LinkedIn](https://www.linkedin.com/in/hyewonjng/)! 
 
+[Resume_한국어.pdf](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf)
