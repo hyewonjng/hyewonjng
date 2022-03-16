@@ -16,7 +16,7 @@ data science projects below 👇
 
 - [Keep up the Good Vibes: Music Recommender System using Spotify Audio Features](https://github.com/hyewonjng/Metis-MusicTrackRecommender)
 - [More than 5-star Ratings: E-commerce Customer Review Analysis](https://github.com/hyewonjng/Metis-EcommerceCustomerReview)
-- Food Recipes Categorization 
+- [Food Recipes Categorization](https://github.com/hyewonjng/Metis-RecipeTopicModeling) 
 - [Vaccination Willingness Classification](https://github.com/hyewonjng/Metis-Vaccination)
 - [NYC Apartment Rental Price Prediction](https://github.com/hyewonjng/Metis-NYCRentalPrediction)
 - [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
