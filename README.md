@@ -23,6 +23,7 @@ data science projects below 👇
 - [Mask Force Placement at NYC Transportation during COVID-19](https://github.com/hyewonjng/Metis-MaskForcePlacement) 
 
 Please feel free to contact with any questions!
+
 Email: heeyewonj@gmail.com
 LinkedIn: [in/hyewonjng](https://www.linkedin.com/in/hyewonjng/)! 
 Resume: [Resume_KR.pdf](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf)
