@@ -14,6 +14,7 @@ data visualization, machine learning algorithms,
 and data engineering and accomplish the following
 data science projects below 👇
 
+### Data Science Projects 
 - [Keep up the Good Vibes: Music Recommender System using Spotify Audio Features](https://github.com/hyewonjng/Metis-MusicTrackRecommender)
 - [More than 5-star Ratings: E-commerce Customer Review Analysis](https://github.com/hyewonjng/Metis-EcommerceCustomerReview)
 - [Food Recipes Categorization](https://github.com/hyewonjng/Metis-RecipeTopicModeling) 
