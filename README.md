@@ -24,6 +24,6 @@ data science projects below 👇
 - [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
 - [Food Recipes Categorization](https://github.com/hyewonjng/Metis-RecipeTopicModeling)
 
-To learn more about me, here are my [LinkedIn](https://www.linkedin.com/in/hyewonjng/) and resume both in English and [Korean](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf).
+To learn more about me, here are my [LinkedIn](https://www.linkedin.com/in/hyewonjng/) and resume both in English (coming up) and [Korean](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf).
 
 Please feel free to contact me with any questions about my work and work opportunites. Looking forward to it!
