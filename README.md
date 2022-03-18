@@ -23,7 +23,6 @@ data science projects below 👇
 - [NYC Apartment Rental Price Prediction](https://github.com/hyewonjng/Metis-NYCRentalPrediction)
 - [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
 - [Food Recipes Categorization](https://github.com/hyewonjng/Metis-RecipeTopicModeling)
-- [Keep up the Good Vibes: Music Recommender System using Spotify Audio Features](https://github.com/hyewonjng/Metis-MusicTrackRecommender)
 
 To learn more about me, here are my [LinkedIn](https://www.linkedin.com/in/hyewonjng/) and resume both in English and [Korean](https://github.com/hyewonjng/hyewonjng/files/8258457/Resume_.pdf).
 
