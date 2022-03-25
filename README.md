@@ -18,7 +18,7 @@ data science projects below 👇
 
  
 - [Mask Force Placement at NYC Transportation during COVID-19](https://github.com/hyewonjng/Metis-MaskForcePlacement)
-- [More than 5-star Ratings: E-commerce Customer Review Analysis](https://github.com/hyewonjng/Metis-EcommerceCustomerReview)
+- [More than 5-star Ratings: E-commerce Customer Review Analysis](https://github.com/hyewonjng/Metis-Ecommerce)
 - [Vaccination Willingness Classification](https://github.com/hyewonjng/Metis-Vaccination)
 - [NYC Apartment Rental Price Prediction](https://github.com/hyewonjng/Metis-NYCRentalPrediction)
 - [Detecting Suicidal Adolescents using Data Science](https://github.com/hyewonjng/Metis-DetectingSuicidalTeens)
