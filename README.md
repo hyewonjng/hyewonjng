@@ -1,4 +1,4 @@
-### Hi! I'm Hyewon, a Data Scientist 👋‍
+### Hi! 👋‍
 
 ### About me 
 I am a data scientist with 4+ years of research experience in clinical psychology 
